@@ -71,6 +71,20 @@ This project analyzes retail sales data from the Superstore dataset using Python
 - Higher discount levels negatively impacted profitability
 - Canon imageCLASS 2200 Advanced Copier was the most profitable product
 
+## Dashboard Screenshots
+
+### Executive Sales Overview
+
+![Executive Sales Overview](Images/Sales_Analysis(Power%20BI)%20-1.png)
+
+### Product & Profit Analysis
+
+![Product & Profit Analysis](Images/Sales_Analysis(Power%20BI)%20-2.png)
+
+### Forecast & Trend Analysis
+
+![Forecast & Trend Analysis](Images/Sales_Analysis(Power%20BI)%20-3.png)
+
 ## Project Structure
 
 Superstore-Sales-Analysis/
